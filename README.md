@@ -85,8 +85,11 @@
 - React, do zero à maestria (30.5h)
 - Next.js (25.5h)
 - Formação Linux completa (23h)
+- Programação básica e avançada com C++ (20.5h)
 - Introdução ao Solidity (17.5h)
 - TypeScript, do básico ao avançado (14h)
+- Go (Golang): explorando a linguagem do Google (11.5h)
+- Introdução à Cibersegurança, Cisco Networking Academy (6h)
 
 ---
 
