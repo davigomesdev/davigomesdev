@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Davi Gomes</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack | Backend, Web3 & Bancos de Dados</b><br/>
+  <b>Desenvolvedor Full-Stack & DevOps | Backend, Web3 & Bancos de Dados</b><br/>
   Código limpo, alta performance, sistemas que escalam.
 </p>
 
