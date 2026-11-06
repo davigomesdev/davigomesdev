@@ -1,108 +1,87 @@
-<h1 align="center">Olá! 👋 Eu sou o Davi Gomes</h1>
 
-<p align="center">
-  <b>Desenvolvedor Full Stack & DevOps | Java, Go, Rust, Node.js, TS & React</b><br/>
-  Código limpo, alta performance, sistemas que escalam.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/davigomesdev"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/davigomesdev"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="mailto:davigomescarmo9@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white" /></a>
-</p>
+# Davi Gomes
 
----
+### Software Engineer | Backend & Full Stack Developer
 
-## 👨‍💻 Sobre mim
+**Building reliable, scalable, and maintainable software.**
 
-- 💼 Mais de 5 anos de experiência construindo sistemas em produção
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (Unopar Anhanguera, 2025)
-- 🔧 Técnico em Redes de Computadores (ETE Aderico Alves de Vasconcelos, 2019)
-- ⚡ Foco em performance, concorrência e sistemas distribuídos
-- ⛓️ Experiência com Web3: smart contracts em Solidity e aplicações na rede Solana
-- 📍 Goiana, Pernambuco - Brasil
-- 🎯 Aberto a oportunidades de trabalho
+Go · Java · Rust · Node.js · TypeScript · React
+
+[Portfolio](https://davigomesdev.github.io) · [LinkedIn](https://linkedin.com/in/davigomesdev) · [Email](mailto:davigomescarmo9@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Habilidades & Tecnologias
+## About Me
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=go,rust,nodejs,java,c,cpp" />
-</p>
+I'm a software engineer with **5+ years of experience** designing, developing, and maintaining production software.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,svelte,ts,tailwind" />
-</p>
+I specialize in backend engineering, full-stack development, database architecture, and infrastructure. My experience includes custom business systems, RESTful APIs, Web3 applications, and third-party integrations.
 
-### Bancos de dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
+I care about clean architecture, performance, security, and building software that remains maintainable as requirements evolve.
 
-### Mensageria
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-  <img src="https://img.shields.io/badge/-NATS-27AAE1?logo=natsdotio&logoColor=white" />
-</p>
+- Based in Pernambuco, Brazil
+- Degree in Systems Analysis and Development
+- Technical background in Computer Networking
+- Open to remote opportunities and freelance projects
 
-### Blockchain / Web3
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://github.com/foundry-rs.png" width="48" height="48" alt="Foundry" title="Foundry (Forge)" />
-  <img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white" />
-</p>
+## Technical Stack
 
-### Infra & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,nginx,git,github" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Go, Java, Rust, Node.js, TypeScript, C, C++ |
+| **Frontend** | React, Svelte, TypeScript, Tailwind CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Messaging** | Kafka, RabbitMQ, NATS |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS, Terraform, Linux, Nginx, Git |
+| **Blockchain** | Solidity, Solana, Foundry, Ethers.js |
 
-### Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai" />
-</p>
+## Engineering Expertise
 
----
+**Backend & Software Architecture**
+- RESTful API design and third-party integrations
+- Maintainable software architecture
+- Concurrent processing and distributed systems
+- Production troubleshooting and performance optimization
 
-## 🗄️ Especialidade em banco de dados
+**Database Engineering**
+- SQL query optimization with `EXPLAIN ANALYZE`
+- Advanced indexing and relational data modeling
+- Multi-tenant systems and Row Level Security
+- Database migrations, replication, and backups
 
-- **Queries performáticas:** `EXPLAIN ANALYZE`, eliminação de N+1, reescrita de subqueries em JOINs
-- **Indexação avançada:** índices compostos, parciais, GIN/GiST
-- **Modelagem:** schemas multi-tenant com Row Level Security, soft deletes e particionamento
-- **Confiabilidade:** replicação, backups automatizados e migrações seguras
+**Infrastructure & Reliability**
+- Containerized applications with Docker
+- Linux-based deployment environments
+- CI/CD workflows and infrastructure management
+- Application security and system reliability
 
----
+## What I Build
 
-## 📜 Cursos e certificações
+- **Business Software:** Custom management systems, ERP/POS solutions, and workflow automation.
+- **Backend Services:** APIs, integrations, and data-driven applications.
+- **Web Applications:** Full-stack platforms, dashboards, and responsive interfaces.
+- **Web3 Solutions:** Smart contract integrations and decentralized applications.
+- **Interactive Applications:** Real-time systems and browser-based 3D experiences.
 
-- PostgreSQL, do básico ao avançado (49.5h)
-- Nest.js e React.js com TypeScript (43.5h)
-- Node.js com JS e TS (32.5h)
-- React, do zero à maestria (30.5h)
-- Next.js (25.5h)
-- Formação Linux completa (23h)
-- Programação básica e avançada com C++ (20.5h)
-- Introdução ao Solidity (17.5h)
-- TypeScript, do básico ao avançado (14h)
-- Go (Golang): explorando a linguagem do Google (11.5h)
-- Introdução à Cibersegurança, Cisco Networking Academy (6h)
+## Education & Continuous Learning
 
----
+**Systems Analysis and Development**  
+Unopar Anhanguera · 2025
 
-## 📊 Estatísticas do GitHub
+**Computer Networking**  
+ETE Aderico Alves de Vasconcelos · 2019
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davigomesdev&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigomesdev&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
+Additional training in PostgreSQL, Node.js, TypeScript, React, Go, Linux, Solidity, and cybersecurity through Udemy and Cisco Networking Academy.
 
----
+## Let's Connect
 
-## 📫 Vamos conversar?
+I'm interested in software engineering opportunities, technical collaborations, and challenging development projects.
 
-- 💼 [LinkedIn](https://linkedin.com/in/davigomesdev)
-- 📧 [davigomescarmo9@gmail.com](mailto:davigomescarmo9@gmail.com)
+- **Portfolio:** https://davigomesdev.github.io
+- **LinkedIn:** https://linkedin.com/in/davigomesdev
+- **Email:** davigomescarmo9@gmail.com
+
