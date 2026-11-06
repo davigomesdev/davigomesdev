@@ -1,11 +1,13 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Davi Gomes
+# Davi Gomes
 
-### Software Engineer | Java, Node.js & Go | Backend & Full Stack
+### Software Engineer | Backend & Full Stack Developer
 
-**Building scalable APIs, reliable backend systems, and modern web applications.**
+**Java · Node.js · Go · Software Architecture · Cloud & DevOps**
+
+Building reliable, scalable, and maintainable software.
 
 <p>
   <a href="https://linkedin.com/in/davigomesdev">
@@ -19,37 +21,30 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=davigomesdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Software Engineer with 5+ years of experience** building, integrating, and maintaining production software.
+I'm a software engineer with over **5 years of experience** developing and maintaining production systems, from business applications to backend services and API integrations.
 
-My primary focus is **backend engineering with Java, Node.js, and Go**, complemented by experience in Rust, frontend development, databases, cloud infrastructure, and Web3.
+My main focus is backend development with **Java, Spring Boot, Node.js, TypeScript, and Go**. I also work with Rust, frontend technologies, databases, infrastructure, and blockchain integrations.
 
-I enjoy solving complex engineering challenges, designing maintainable architectures, optimizing database performance, and developing reliable systems that support real business operations.
+I value well-structured code, performance, security, and solutions that are practical to maintain in production.
 
-- ☕ **Backend:** Java, Spring Boot, Node.js, TypeScript, and Go
-- ⚙️ **Engineering:** REST APIs, software architecture, concurrency, and distributed systems
-- 🗄️ **Databases:** PostgreSQL optimization, data modeling, and multi-tenant architectures
-- ☁️ **Infrastructure:** Docker, Linux, Kubernetes, AWS, and CI/CD
-- 🔐 **Security:** Authentication, authorization, and secure application development
-- ⛓️ **Web3:** Solidity, smart contracts, and blockchain integrations
-- 🎓 **Education:** Degree in Systems Analysis and Development
-- 🌎 **Location:** Pernambuco, Brazil
-- 🤝 **Availability:** Remote opportunities, freelance projects, and technical collaborations
+My technical interests include software architecture, distributed systems, database optimization, concurrency, and infrastructure automation.
+
+- Based in Pernambuco, Brazil
+- Degree in Systems Analysis and Development
+- Technical background in Computer Networking
+- Open to remote opportunities and freelance projects
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
-## ☕ Java Ecosystem
+### Java Ecosystem
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=dark" alt="Java, Spring, Maven and Gradle" />
@@ -57,16 +52,13 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 **Core Technologies**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+`Java` · `Spring Boot` · `Hibernate` · `Maven`
 
-**Related Frameworks & Tools**
+**Frameworks & Tools**
 
-`Spring Data JPA` · `Spring Security` · `Hibernate ORM` · `Jakarta Persistence` · `JUnit` · `Spring Boot Actuator`
+`Spring Data JPA` · `Spring Security` · `Jakarta Persistence` · `JUnit` · `Spring Boot Actuator` · `REST APIs`
 
-## 🟢 Node.js Ecosystem
+### Node.js Ecosystem
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,prisma&theme=dark" alt="Node.js, TypeScript, NestJS, Express and Prisma" />
@@ -74,18 +66,13 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 **Core Technologies**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+`Node.js` · `TypeScript` · `NestJS` · `Fastify` · `Express` · `Prisma`
 
-**Related Frameworks & Tools**
+**Frameworks & Tools**
 
-`REST APIs` · `Fastify` · `NestJS` · `Express` · `Prisma ORM` · `Zod` · `JWT` · `Node.js Test Runner`
+`Zod` · `JWT` · `REST APIs` · `Node.js Test Runner` · `API Integrations`
 
-## 🐹 Go Ecosystem
+### Go Ecosystem
 
 <p>
   <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go (Golang)" />
@@ -93,60 +80,51 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 **Core Technologies**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PGX](https://img.shields.io/badge/PGX-336791?style=flat-square&logo=postgresql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-24292F?style=flat-square&logoColor=white)
+`Go` · `Fiber` · `PGX` · `WebSockets`
 
-**Related Frameworks & Tools**
+**Frameworks & Tools**
 
-`Go Fiber` · `PGX` · `Go Modules` · `REST APIs` · `WebSockets` · `JWT` · `Goroutines` · `Channels` · `Concurrency` · `Go Testing`
+`Go Modules` · `Goroutines` · `Channels` · `Concurrency` · `JWT` · `Go Testing` · `REST APIs`
 
-## ⚡ Other Backend Languages
+### Other Backend Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=rust,c,cpp,php&theme=dark" alt="Rust, C, C++ and PHP" />
 </p>
 
-**Related Frameworks & Tools**
+**Frameworks & Tools**
 
-`Actix Web` · `Actix Multipart` · `Serde` · `Cargo`
+`Actix Web` · `Serde` · `Cargo`
 
-## 🎨 Frontend Development
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,tailwind,vite&theme=dark" alt="React, Next.js, Svelte, TypeScript, Tailwind and Vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,ts,tailwind,vite&theme=dark" alt="React, Next.js, Svelte, TypeScript, Tailwind CSS and Vite" />
 </p>
 
 **Frameworks & Libraries**
 
 `React` · `Next.js` · `SvelteKit` · `TanStack Query` · `Tailwind CSS` · `Vite`
 
-## 🗄️ Databases & Caching
+### Databases & Caching
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB and Redis" />
 </p>
 
-**Database Engineering**
+**Technologies & Concepts**
 
-`SQL Optimization` · `Advanced Indexing` · `Row Level Security` · `Multi-Tenancy` · `Database Migrations` · `Data Modeling` · `Query Performance`
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `SQL Optimization` · `Advanced Indexing` · `Row Level Security` · `Multi-Tenancy`
 
-## 📨 Messaging & Event-Driven Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Kafka and RabbitMQ" />
-</p>
+### Messaging & Event-Driven Systems
 
 <p>
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logoColor=white" alt="NATS" />
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Apache Kafka and RabbitMQ" />
 </p>
 
-**Related Concepts**
+`Apache Kafka` · `RabbitMQ` · `NATS` · `Message Queues` · `Publish/Subscribe`
 
-`Message Queues` · `Event-Driven Architecture` · `Asynchronous Processing` · `Publish/Subscribe`
-
-## ☁️ Cloud, Infrastructure & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,nginx,git,github&theme=dark" alt="Docker, Kubernetes, AWS, Terraform, Linux, Nginx, Git and GitHub" />
@@ -154,22 +132,19 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 **Infrastructure & Operations**
 
-`Docker` · `Kubernetes` · `AWS` · `Terraform` · `Linux` · `Nginx` · `CI/CD` · `Git` · `Containerization`
+`Docker` · `Kubernetes` · `AWS` · `Terraform` · `Linux` · `Nginx` · `CI/CD` · `Git`
 
-## ⛓️ Blockchain & Web3
+### Blockchain & Web3
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
   <img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana" />
   <img src="https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/Foundry-222222" alt="Foundry" />
 </p>
 
-**Related Technologies**
+`Solidity` · `Solana` · `Ethers.js` · `Foundry` · `Smart Contracts` · `DeFi`
 
-`Solidity` · `Smart Contracts` · `Ethers.js` · `Solana` · `Foundry` · `DeFi` · `Web3`
-
-## 🎨 Design & 3D
+### Design & 3D
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&theme=dark" alt="Figma, Blender, Photoshop and Illustrator" />
@@ -177,92 +152,79 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 ---
 
-# 🧠 Engineering Expertise
+## Engineering Expertise
 
-### ⚙️ Backend & Software Architecture
+### Backend & Software Architecture
 
-- Design and development of RESTful APIs and backend services
-- Clean architecture, modular systems, and maintainable code
+- RESTful API design and development
+- Clean architecture and modular application design
 - Concurrent programming and distributed systems
-- Third-party integrations and production troubleshooting
 - Authentication, authorization, and application security
-- Design of reliable systems for business-critical operations
+- Third-party integrations and production troubleshooting
+- Maintainability, performance, and system reliability
 
-### 🗄️ Database Engineering
+### Database Engineering
 
-- Query optimization using `EXPLAIN ANALYZE`
-- Advanced indexing: composite, partial, GIN, and GiST
-- Identification and prevention of N+1 queries
-- Multi-tenant architectures with Row Level Security
-- Safe database migrations and relational data modeling
-- Database reliability, replication, and backups
+- SQL query analysis and optimization using `EXPLAIN ANALYZE`
+- Composite, partial, GIN, and GiST indexes
+- N+1 query identification and prevention
+- Multi-tenant database design with Row Level Security
+- Relational data modeling and safe database migrations
+- Replication, backup strategies, and data integrity
 
-### ☁️ Infrastructure & Reliability
+### Infrastructure & Operations
 
-- Containerized application environments using Docker
-- Linux server administration and Nginx configuration
+- Docker-based application environments
+- Linux server administration
+- Nginx configuration and reverse proxy management
 - CI/CD workflows and deployment automation
-- Infrastructure management and system monitoring
-- Troubleshooting and maintaining production environments
+- Production monitoring and troubleshooting
 
 ---
 
-# 🚀 What I Build
+## What I Build
 
-| Area | Solutions |
-|------|-----------|
-| 🏢 **Business Software** | ERP, POS, management systems, and business automation |
-| ☕ **Java Backend** | Spring Boot applications, REST APIs, and backend services |
-| 🟢 **Node.js Backend** | TypeScript APIs, integrations, and business applications |
-| 🐹 **Go Backend** | Backend services, REST APIs, WebSockets, and concurrent applications |
-| 🌐 **Full Stack** | SaaS platforms, dashboards, and custom web applications |
-| 🗄️ **Database Systems** | PostgreSQL optimization, data modeling, and multi-tenant applications |
-| ⛓️ **Web3** | Smart contracts, DeFi applications, and blockchain integrations |
-| 🎮 **Interactive Applications** | Browser-based 3D experiences and real-time multiplayer systems |
+My work includes applications across different industries and technical requirements.
 
----
-
-# 🎓 Education
-
-### Systems Analysis and Development
-
-**Unopar Anhanguera** — 2025
-
-### Computer Networking
-
-**ETE Aderico Alves de Vasconcelos** — 2019
+| Area | Experience |
+| --- | --- |
+| Business Software | ERP, POS, management platforms, and business automation |
+| Backend Development | REST APIs, backend services, and third-party integrations |
+| Web Applications | SaaS platforms, dashboards, and custom web systems |
+| Database Systems | PostgreSQL optimization, multi-tenant architectures, and data modeling |
+| Blockchain & Web3 | Smart contracts, DeFi applications, and blockchain integrations |
+| Interactive Applications | Browser-based 3D experiences and real-time multiplayer systems |
 
 ---
 
-# 📜 Certifications & Training
+## Education
 
-- ☁️ AWS Cloud Quest: Cloud Practitioner — Trained
-- ☕ Java Development — FIAP
-- 🔐 Introduction to Cybersecurity — Cisco Networking Academy
-- 🗄️ PostgreSQL: Basic to Advanced — Udemy
-- 🟢 Node.js with JavaScript and TypeScript — Udemy
-- 🐹 Go (Golang) Programming — Udemy
-- 🐧 Linux: Basic to Advanced — Udemy
-- ⛓️ Introduction to Solidity — Udemy
+**Systems Analysis and Development**  
+Unopar Anhanguera — 2025
+
+**Computer Networking**  
+ETE Aderico Alves de Vasconcelos — 2019
 
 ---
 
-# 🤝 Let's Connect
+## Certifications & Training
 
-<div align="center">
+- AWS Cloud Quest: Cloud Practitioner — Trained
+- Java Development — FIAP
+- Introduction to Cybersecurity — Cisco Networking Academy
+- PostgreSQL: Basic to Advanced — Udemy
+- Node.js with JavaScript and TypeScript — Udemy
+- Go (Golang) Programming — Udemy
+- Linux: Basic to Advanced — Udemy
+- Introduction to Solidity — Udemy
 
-**Open to remote opportunities, freelance projects, and technical collaborations.**
+---
 
-<p>
-  <a href="https://linkedin.com/in/davigomesdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://davigomesdev.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:davigomescarmo9@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## Contact
 
-</div>
+I'm open to discussing software engineering opportunities, freelance projects, and technical collaborations.
+
+- **Portfolio:** [davigomesdev.github.io](https://davigomesdev.github.io)
+- **LinkedIn:** [linkedin.com/in/davigomesdev](https://linkedin.com/in/davigomesdev)
+- **Email:** [davigomescarmo9@gmail.com](mailto:davigomescarmo9@gmail.com)
+
