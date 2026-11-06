@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Davi Gomes
 
-### Software Engineer | Java & Node.js | Backend & Full Stack
+### Software Engineer | Java, Node.js & Go | Backend & Full Stack
 
 **Building scalable APIs, reliable backend systems, and modern web applications.**
 
@@ -31,14 +31,15 @@
 
 I'm a **Software Engineer with 5+ years of experience** building, integrating, and maintaining production software.
 
-My primary focus is **backend engineering with Java and Node.js**, complemented by hands-on experience with Go, Rust, frontend development, databases, cloud infrastructure, and Web3.
+My primary focus is **backend engineering with Java, Node.js, and Go**, complemented by experience in Rust, frontend development, databases, cloud infrastructure, and Web3.
 
-I enjoy solving complex engineering challenges, designing maintainable architectures, optimizing database performance, and developing systems that support real business operations.
+I enjoy solving complex engineering challenges, designing maintainable architectures, optimizing database performance, and developing reliable systems that support real business operations.
 
-- ☕ **Primary focus:** Java, Spring Boot, Node.js, and TypeScript
+- ☕ **Backend:** Java, Spring Boot, Node.js, TypeScript, and Go
 - ⚙️ **Engineering:** REST APIs, software architecture, concurrency, and distributed systems
-- 🗄️ **Databases:** PostgreSQL optimization, data modeling, and multi-tenant systems
+- 🗄️ **Databases:** PostgreSQL optimization, data modeling, and multi-tenant architectures
 - ☁️ **Infrastructure:** Docker, Linux, Kubernetes, AWS, and CI/CD
+- 🔐 **Security:** Authentication, authorization, and secure application development
 - ⛓️ **Web3:** Solidity, smart contracts, and blockchain integrations
 - 🎓 **Education:** Degree in Systems Analysis and Development
 - 🌎 **Location:** Pernambuco, Brazil
@@ -84,15 +85,32 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 `REST APIs` · `Fastify` · `NestJS` · `Express` · `Prisma ORM` · `Zod` · `JWT` · `Node.js Test Runner`
 
+## 🐹 Go Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go (Golang)" />
+</p>
+
+**Core Technologies**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PGX](https://img.shields.io/badge/PGX-336791?style=flat-square&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-24292F?style=flat-square&logoColor=white)
+
+**Related Frameworks & Tools**
+
+`Go Fiber` · `PGX` · `Go Modules` · `REST APIs` · `WebSockets` · `JWT` · `Goroutines` · `Channels` · `Concurrency` · `Go Testing`
+
 ## ⚡ Other Backend Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,rust,c,cpp,php&theme=dark" alt="Go, Rust, C, C++ and PHP" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,php&theme=dark" alt="Rust, C, C++ and PHP" />
 </p>
 
-**Additional Frameworks**
+**Related Frameworks & Tools**
 
-`Go Fiber` · `Actix Web` · `GORM` · `PGX`
+`Actix Web` · `Actix Multipart` · `Serde` · `Cargo`
 
 ## 🎨 Frontend Development
 
@@ -112,7 +130,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 **Database Engineering**
 
-`SQL Optimization` · `Advanced Indexing` · `Row Level Security` · `Multi-Tenancy` · `Migrations` · `Data Modeling`
+`SQL Optimization` · `Advanced Indexing` · `Row Level Security` · `Multi-Tenancy` · `Database Migrations` · `Data Modeling` · `Query Performance`
 
 ## 📨 Messaging & Event-Driven Systems
 
@@ -124,6 +142,10 @@ I enjoy solving complex engineering challenges, designing maintainable architect
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logoColor=white" alt="NATS" />
 </p>
 
+**Related Concepts**
+
+`Message Queues` · `Event-Driven Architecture` · `Asynchronous Processing` · `Publish/Subscribe`
+
 ## ☁️ Cloud, Infrastructure & DevOps
 
 <p>
@@ -132,18 +154,20 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 **Infrastructure & Operations**
 
-`Docker` · `Kubernetes` · `AWS` · `Terraform` · `Linux` · `Nginx` · `CI/CD` · `Git`
+`Docker` · `Kubernetes` · `AWS` · `Terraform` · `Linux` · `Nginx` · `CI/CD` · `Git` · `Containerization`
 
 ## ⛓️ Blockchain & Web3
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://github.com/foundry-rs.png"
-       width="48" height="48"
-       alt="Foundry" title="Foundry (Forge)" />
-  <img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+  <img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Foundry-222222" alt="Foundry" />
 </p>
+
+**Related Technologies**
+
+`Solidity` · `Smart Contracts` · `Ethers.js` · `Solana` · `Foundry` · `DeFi` · `Web3`
 
 ## 🎨 Design & 3D
 
@@ -162,6 +186,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 - Concurrent programming and distributed systems
 - Third-party integrations and production troubleshooting
 - Authentication, authorization, and application security
+- Design of reliable systems for business-critical operations
 
 ### 🗄️ Database Engineering
 
@@ -169,7 +194,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 - Advanced indexing: composite, partial, GIN, and GiST
 - Identification and prevention of N+1 queries
 - Multi-tenant architectures with Row Level Security
-- Safe database migrations and data modeling
+- Safe database migrations and relational data modeling
 - Database reliability, replication, and backups
 
 ### ☁️ Infrastructure & Reliability
@@ -178,6 +203,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 - Linux server administration and Nginx configuration
 - CI/CD workflows and deployment automation
 - Infrastructure management and system monitoring
+- Troubleshooting and maintaining production environments
 
 ---
 
@@ -188,6 +214,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 | 🏢 **Business Software** | ERP, POS, management systems, and business automation |
 | ☕ **Java Backend** | Spring Boot applications, REST APIs, and backend services |
 | 🟢 **Node.js Backend** | TypeScript APIs, integrations, and business applications |
+| 🐹 **Go Backend** | Backend services, REST APIs, WebSockets, and concurrent applications |
 | 🌐 **Full Stack** | SaaS platforms, dashboards, and custom web applications |
 | 🗄️ **Database Systems** | PostgreSQL optimization, data modeling, and multi-tenant applications |
 | ⛓️ **Web3** | Smart contracts, DeFi applications, and blockchain integrations |
@@ -198,9 +225,11 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 # 🎓 Education
 
 ### Systems Analysis and Development
+
 **Unopar Anhanguera** — 2025
 
 ### Computer Networking
+
 **ETE Aderico Alves de Vasconcelos** — 2019
 
 ---
@@ -212,7 +241,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 - 🔐 Introduction to Cybersecurity — Cisco Networking Academy
 - 🗄️ PostgreSQL: Basic to Advanced — Udemy
 - 🟢 Node.js with JavaScript and TypeScript — Udemy
-- ⚙️ Go (Golang) Programming — Udemy
+- 🐹 Go (Golang) Programming — Udemy
 - 🐧 Linux: Basic to Advanced — Udemy
 - ⛓️ Introduction to Solidity — Udemy
 
