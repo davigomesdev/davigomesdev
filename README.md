@@ -249,19 +249,6 @@ I develop software solutions across business applications, backend services, and
 
 ---
 
-# Certifications & Training
-
-- AWS Cloud Quest: Cloud Practitioner — Trained
-- Java Development — FIAP
-- Introduction to Cybersecurity — Cisco Networking Academy
-- PostgreSQL: Basic to Advanced — Udemy
-- Node.js with JavaScript and TypeScript — Udemy
-- Go (Golang) Programming — Udemy
-- Linux: Basic to Advanced — Udemy
-- Introduction to Solidity — Udemy
-
----
-
 # Contact
 
 I'm open to remote software engineering opportunities, freelance projects, and technical collaborations.
