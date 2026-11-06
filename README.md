@@ -137,23 +137,12 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 ## ⛓️ Blockchain & Web3
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=solidity&theme=dark"
-    alt="Solidity"
-    height="48"
-  />
-  <img
-    src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge"
-    alt="Solana"
-  />
-  <img
-    src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge"
-    alt="Ethers.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Foundry-222222?style=for-the-badge"
-    alt="Foundry"
-  />
+  <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://github.com/foundry-rs.png"
+       width="48" height="48"
+       alt="Foundry" title="Foundry (Forge)" />
+  <img src="https://img.shields.io/badge/-Solana-9945FF?logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethers.js-2535A0?logo=ethereum&logoColor=white" />
 </p>
 
 ## 🎨 Design & 3D
